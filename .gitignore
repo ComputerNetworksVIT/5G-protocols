@@ -1,0 +1,15 @@
+# ns-3 build outputs
+build/
+ns3env/
+
+# temporary files
+*.o
+*.so
+*.a
+*.pyc
+*.log
+*.tmp
+
+# editor files
+.vscode/
+.idea/
